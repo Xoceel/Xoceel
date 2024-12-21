@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Xoceel
-- 👀 I’m interested in Web Dev 
+- 👋 Hi, my name is Lee Cox
+- 👀 I’m interested in AI, XR mixed reality, and computer vision
 - 🌱 I’m currently learning Computer Science
 
 <!---
