@@ -1,6 +1,6 @@
-- 👋 Hi, my name is Lee Cox
+- 👋 Hi, my name is Lee
 - 👀 I’m interested in AI, XR mixed reality, and computer vision
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently a 4th year student learning Computer Science at Technological University Dublin
 
 ## **Projects**
 ### Music synth XR project video demo
