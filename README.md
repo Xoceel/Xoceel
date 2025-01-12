@@ -3,8 +3,8 @@
 - 🌱 I’m currently a 4th year student learning Computer Science at Technological University Dublin
 
 ## **Projects**
-### Music synth XR project video demo
+### Music Synth XR Project Video Demo
  [![Project Demo](http://img.youtube.com/vi/wHFfQDwnbWw/hqdefault.jpg)](https://www.youtube.com/watch?v=wHFfQDwnbWw)
 
-### Pool Assistant (WIP) computer vision project progress image
+### Pool Assistant (WIP) Computer Vision XR project
 <img src="WIP.png" alt="Progress Image for this project" width="500"/>
