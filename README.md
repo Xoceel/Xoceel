@@ -6,5 +6,5 @@
 ### Music Synth XR Project Video Demo
  [![Project Demo](http://img.youtube.com/vi/wHFfQDwnbWw/hqdefault.jpg)](https://www.youtube.com/watch?v=wHFfQDwnbWw)
 
-### Pool Assistant (WIP) Computer Vision XR project
-<img src="WIP.png" alt="Progress Image for this project" width="500"/>
+### Pool Assistant Computer Vision XR project
+ [![Project Demo](http://img.youtube.com/vi/xSxluX3aaK4/hqdefault.jpg)](https://www.youtube.com/watch?v=xSxluX3aaK4)
