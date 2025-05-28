@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Lee
-- 👀 I’m interested in all things computer science, my latest projects have been on XR and computer vision!
+- 👀 I’m interested in all things computer science, my latest projects have been on XR, computer vision, and Android!
 - 🌱 I’m currently a 4th year student learning Computer Science at Technological University Dublin
 
 ## **Projects**
