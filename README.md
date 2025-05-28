@@ -4,7 +4,7 @@
 
 ## **Projects**
 
-### Pool Assistant Computer Vision XR project
+### Pool Assistant Computer Vision XR project (Best Overall Project Prize Winner at TUD Project Fair 2025)
  [![Project Demo](http://img.youtube.com/vi/xSxluX3aaK4/hqdefault.jpg)](https://www.youtube.com/watch?v=xSxluX3aaK4)
 
 ### Music Synth XR Project Video Demo
