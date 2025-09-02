@@ -19,3 +19,5 @@
 </p>
 - This is my current passion project that I am developing to meet all my needs for tracking my fitness journey, it is being built to replace 3 seperate apps that I use and tracks weight training, bodyweight, and calorie intake.
 
+### Other Notable projects
+-	HTTP Server, Accessibility Redesigns for Websites, Boid Simulation, Conway’s Game of Life, Robotics with RPi and Arduino,  Gene Transcribing and Translating ORF Finder, Augmented Reality Music Synthesiser
