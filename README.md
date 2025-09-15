@@ -1,6 +1,8 @@
-- 👋 Hi, my name is Lee.
-- 👀 I’m interested in all things computer science, my latest projects have been on XR, computer vision, Android, and .Net!
-- 🌱 I’m Graduating From Technological University Dublin this year, and am seeking a role as a software developer / software engineer :)
+## **Lee Cox - Github**
+
+- 👋 Hi, my name is Lee. This is my github for all my personal projects, feel free to use any of my public projects as your own.
+- 👀 I’m interested in all things computer science, my latest projects have been on XR, computer vision, Android, and right now in .Net!
+- 🌱 I’m Graduating From Technological University Dublin this year, and I'm seeking a role as a software developer / software engineer :)
 
 ## **Projects**
 
