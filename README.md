@@ -13,10 +13,11 @@
 
 ### Cross-Platform Fitness Tracking App (WIP)
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/6b0cf350-83b8-406b-a996-aeedbb72aab7" height="540"/>
-  <img src="https://github.com/user-attachments/assets/4007c279-7e5a-40bb-9ed4-e84931cf9333" height="540"/>
-  <img src="https://github.com/user-attachments/assets/6b419417-9a76-4b73-a402-7e82e8db8401" height="540"/>
+ <img height="540" alt="Screenshot_1757967463" src="https://github.com/user-attachments/assets/9e5e1570-7d89-45b3-9bb8-eca832eb97e1" />
+ <img  height="540" alt="Screenshot_1757967504" src="https://github.com/user-attachments/assets/9afd25b3-0b93-4462-9d7c-68fb0205a194" />
+ <img  height="540" alt="Screenshot_1757967511" src="https://github.com/user-attachments/assets/79e7da56-f79e-4292-a98c-3d62fd61bb1b" />
 </p>
+
 - This is my current passion project that I am developing to meet all my needs for tracking my fitness journey, it is being built to replace 3 seperate apps that I use and tracks weight training, bodyweight, and calorie intake.
 
 ### Other Notable projects
