@@ -7,7 +7,7 @@
 ## **Projects**
 
 ### AfterImage - Subitizing Challenge Web App
-[![GIF of AfterImage being Played]([image_url](https://github.com/user-attachments/assets/bd3701ee-1942-4a1b-8d8e-c63a2c88d27e))](https://afterimage.ie) 
+[![GIF of AfterImage being Played](https://github.com/user-attachments/assets/bd3701ee-1942-4a1b-8d8e-c63a2c88d27e)](https://afterimage.ie)
 
 
 ### Pool Assistant Computer Vision XR project (Best Overall Project Prize Winner at TUD Project Fair 2025) Video
